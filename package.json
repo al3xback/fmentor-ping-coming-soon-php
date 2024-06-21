@@ -1,0 +1,16 @@
+{
+	"name": "fmentor-ping-coming-soon-php",
+	"version": "1.0.0",
+	"description": "ping coming soon page using php",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-ping-coming-soon-php.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-ping-coming-soon-php/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-ping-coming-soon-php#readme"
+}
